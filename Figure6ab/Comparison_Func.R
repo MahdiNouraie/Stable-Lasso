@@ -1,4 +1,4 @@
-# This script generates comparison of differenrt functions
+# This script generates comparison of differenrt functional forms of w
 options(warn=-1) # Turn off warnings
 if (!requireNamespace("MASS")) {install.packages("MASS")} # install package if not already installed
 if (!requireNamespace("glmnet")) {install.packages("glmnet")} # install package if not already installed
