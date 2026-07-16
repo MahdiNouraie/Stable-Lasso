@@ -1,4 +1,4 @@
-# This script generates Figures 4(c) and 4(d) from the paper
+# This script generates Figures 7(c) and 7(d) from the paper
 options(warn=-1) # Turn off warnings
 if (!requireNamespace("MASS")) {install.packages("MASS")} # install package if not already installed
 if (!requireNamespace("glmnet")) {install.packages("glmnet")} # install package if not already installed
